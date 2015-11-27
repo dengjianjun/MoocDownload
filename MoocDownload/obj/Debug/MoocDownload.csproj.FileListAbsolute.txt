@@ -1,0 +1,14 @@
+H:\gridsum\Project\MoocDownload\MoocDownload\bin\Debug\MoocDownload.exe.config
+H:\gridsum\Project\MoocDownload\MoocDownload\bin\Debug\video.xml
+H:\gridsum\Project\MoocDownload\MoocDownload\bin\Debug\MoocDownload.exe
+H:\gridsum\Project\MoocDownload\MoocDownload\bin\Debug\MoocDownload.pdb
+H:\gridsum\Project\MoocDownload\MoocDownload\obj\Debug\MoocDownload.csprojResolveAssemblyReference.cache
+H:\gridsum\Project\MoocDownload\MoocDownload\obj\Debug\MoocDownload.exe
+H:\gridsum\Project\MoocDownload\MoocDownload\obj\Debug\MoocDownload.pdb
+D:\Study\Code\MoocDownload\MoocDownload\bin\Debug\MoocDownload.exe.config
+D:\Study\Code\MoocDownload\MoocDownload\obj\Debug\MoocDownload.exe
+D:\Study\Code\MoocDownload\MoocDownload\obj\Debug\MoocDownload.pdb
+D:\Study\Code\MoocDownload\MoocDownload\bin\Debug\video.xml
+D:\Study\Code\MoocDownload\MoocDownload\bin\Debug\MoocDownload.exe
+D:\Study\Code\MoocDownload\MoocDownload\bin\Debug\MoocDownload.pdb
+D:\Study\Code\MoocDownload\MoocDownload\obj\Debug\MoocDownload.csprojResolveAssemblyReference.cache
