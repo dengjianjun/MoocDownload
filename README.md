@@ -41,4 +41,15 @@ $(selector).each(function(i, e) {
         };
     });
 });
+
+//下载代码文件
+var arr=[],fileStr='';
+$('.downlist li').each(function(){
+    var model={
+        name:$(this.children[0]).text(),
+        url:this.children[1].href
+    };
+    arr.push(model);
+    fileStr+="filename="+model.name+"&fileurl="+model.url+"\n";
+});
 ```
